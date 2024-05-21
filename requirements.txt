@@ -3,7 +3,7 @@ geopandas
 openpyxl
 numpy
 json
-streamlit-webrtc
+#streamlit-webrtc
 opencv-python-headless
 Pillow
 tensorflow==2.12
